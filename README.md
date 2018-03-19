@@ -1,4 +1,4 @@
-# websocket_python
+# Websocket Python
 
 This code uses Python version 3.6.1 for testing.
 Host name and port number for server is localhost:8080.
